@@ -1,0 +1,430 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		991A201426D6B5980026FC60 /* ShopAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991A201326D6B5980026FC60 /* ShopAnnotation.swift */; };
+		9962441F26D02E82005323D5 /* BetShops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9962441E26D02E82005323D5 /* BetShops.swift */; };
+		9962442326D0535B005323D5 /* NetworkApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9962442226D0535B005323D5 /* NetworkApiManager.swift */; };
+		9962442726D05877005323D5 /* NetworkApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9962442626D05877005323D5 /* NetworkApiClient.swift */; };
+		99CA081C26D00EBD004CAC77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CA081B26D00EBD004CAC77 /* AppDelegate.swift */; };
+		99CA081E26D00EBD004CAC77 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CA081D26D00EBD004CAC77 /* SceneDelegate.swift */; };
+		99CA082526D00EBF004CAC77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99CA082426D00EBF004CAC77 /* Assets.xcassets */; };
+		99CA082826D00EBF004CAC77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99CA082626D00EBF004CAC77 /* LaunchScreen.storyboard */; };
+		99CA083126D00FF0004CAC77 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CA082F26D00FF0004CAC77 /* MapViewController.swift */; };
+		99CA083226D00FF0004CAC77 /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 99CA083026D00FF0004CAC77 /* MapViewController.xib */; };
+		99CA083626D02306004CAC77 /* MapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CA083526D02306004CAC77 /* MapViewModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		991A201326D6B5980026FC60 /* ShopAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopAnnotation.swift; sourceTree = "<group>"; };
+		9962441E26D02E82005323D5 /* BetShops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetShops.swift; sourceTree = "<group>"; };
+		9962442226D0535B005323D5 /* NetworkApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkApiManager.swift; sourceTree = "<group>"; };
+		9962442626D05877005323D5 /* NetworkApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkApiClient.swift; sourceTree = "<group>"; };
+		99CA081826D00EBD004CAC77 /* BetShops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetShops.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		99CA081B26D00EBD004CAC77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		99CA081D26D00EBD004CAC77 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		99CA082426D00EBF004CAC77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		99CA082726D00EBF004CAC77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		99CA082926D00EBF004CAC77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99CA082F26D00FF0004CAC77 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		99CA083026D00FF0004CAC77 /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
+		99CA083526D02306004CAC77 /* MapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		99CA081526D00EBD004CAC77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		991A201526D6E0560026FC60 /* Annotations */ = {
+			isa = PBXGroup;
+			children = (
+				991A201326D6B5980026FC60 /* ShopAnnotation.swift */,
+			);
+			path = Annotations;
+			sourceTree = "<group>";
+		};
+		9948DED026D99C3F005A22CD /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				99CA082626D00EBF004CAC77 /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		9962441926D02D14005323D5 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				991A201526D6E0560026FC60 /* Annotations */,
+				9948DED026D99C3F005A22CD /* Launch */,
+				9962441C26D02D51005323D5 /* ViewControllers */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		9962441A26D02D1D005323D5 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				99CA083526D02306004CAC77 /* MapViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		9962441B26D02D3A005323D5 /* AppStart */ = {
+			isa = PBXGroup;
+			children = (
+				99CA081B26D00EBD004CAC77 /* AppDelegate.swift */,
+				99CA081D26D00EBD004CAC77 /* SceneDelegate.swift */,
+			);
+			path = AppStart;
+			sourceTree = "<group>";
+		};
+		9962441C26D02D51005323D5 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				99CA082F26D00FF0004CAC77 /* MapViewController.swift */,
+				99CA083026D00FF0004CAC77 /* MapViewController.xib */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		9962441D26D02DC9005323D5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9962441E26D02E82005323D5 /* BetShops.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9962442026D02EE3005323D5 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				9962442126D05314005323D5 /* Network */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		9962442126D05314005323D5 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				9962442226D0535B005323D5 /* NetworkApiManager.swift */,
+				9962442626D05877005323D5 /* NetworkApiClient.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		99CA080F26D00EBD004CAC77 = {
+			isa = PBXGroup;
+			children = (
+				99CA081A26D00EBD004CAC77 /* BetShops */,
+				99CA082426D00EBF004CAC77 /* Assets.xcassets */,
+				99CA081926D00EBD004CAC77 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		99CA081926D00EBD004CAC77 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				99CA081826D00EBD004CAC77 /* BetShops.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		99CA081A26D00EBD004CAC77 /* BetShops */ = {
+			isa = PBXGroup;
+			children = (
+				9962441B26D02D3A005323D5 /* AppStart */,
+				9962441926D02D14005323D5 /* UI */,
+				9962441A26D02D1D005323D5 /* ViewModels */,
+				9962442026D02EE3005323D5 /* Managers */,
+				9962441D26D02DC9005323D5 /* Models */,
+				99CA082926D00EBF004CAC77 /* Info.plist */,
+			);
+			path = BetShops;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		99CA081726D00EBD004CAC77 /* BetShops */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 99CA082C26D00EBF004CAC77 /* Build configuration list for PBXNativeTarget "BetShops" */;
+			buildPhases = (
+				99CA081426D00EBD004CAC77 /* Sources */,
+				99CA081526D00EBD004CAC77 /* Frameworks */,
+				99CA081626D00EBD004CAC77 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BetShops;
+			productName = BetShops;
+			productReference = 99CA081826D00EBD004CAC77 /* BetShops.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		99CA081026D00EBD004CAC77 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					99CA081726D00EBD004CAC77 = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = 99CA081326D00EBD004CAC77 /* Build configuration list for PBXProject "BetShops" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 99CA080F26D00EBD004CAC77;
+			productRefGroup = 99CA081926D00EBD004CAC77 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				99CA081726D00EBD004CAC77 /* BetShops */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		99CA081626D00EBD004CAC77 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99CA082826D00EBF004CAC77 /* LaunchScreen.storyboard in Resources */,
+				99CA083226D00FF0004CAC77 /* MapViewController.xib in Resources */,
+				99CA082526D00EBF004CAC77 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		99CA081426D00EBD004CAC77 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				99CA081C26D00EBD004CAC77 /* AppDelegate.swift in Sources */,
+				991A201426D6B5980026FC60 /* ShopAnnotation.swift in Sources */,
+				9962442326D0535B005323D5 /* NetworkApiManager.swift in Sources */,
+				99CA083126D00FF0004CAC77 /* MapViewController.swift in Sources */,
+				9962442726D05877005323D5 /* NetworkApiClient.swift in Sources */,
+				99CA081E26D00EBD004CAC77 /* SceneDelegate.swift in Sources */,
+				99CA083626D02306004CAC77 /* MapViewModel.swift in Sources */,
+				9962441F26D02E82005323D5 /* BetShops.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		99CA082626D00EBF004CAC77 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				99CA082726D00EBF004CAC77 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		99CA082A26D00EBF004CAC77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		99CA082B26D00EBF004CAC77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		99CA082D26D00EBF004CAC77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 48APBRKW5R;
+				INFOPLIST_FILE = BetShops/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iivanu.BetShops;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		99CA082E26D00EBF004CAC77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 48APBRKW5R;
+				INFOPLIST_FILE = BetShops/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iivanu.BetShops;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		99CA081326D00EBD004CAC77 /* Build configuration list for PBXProject "BetShops" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99CA082A26D00EBF004CAC77 /* Debug */,
+				99CA082B26D00EBF004CAC77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		99CA082C26D00EBF004CAC77 /* Build configuration list for PBXNativeTarget "BetShops" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				99CA082D26D00EBF004CAC77 /* Debug */,
+				99CA082E26D00EBF004CAC77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 99CA081026D00EBD004CAC77 /* Project object */;
+}

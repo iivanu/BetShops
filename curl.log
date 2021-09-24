@@ -1,0 +1,1315 @@
+curl -X GET 'https://interview.superology.dev/betshops?boundingBox=48.16124,11.60912,48.12229,11.52741'
+
+{
+  "count": 109,
+  "betshops": [
+    {
+      "name": " Lenbachplatz 7",
+      "location": {
+        "lng": 11.5689638,
+        "lat": 48.1405515
+      },
+      "id": 2350329,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " St-Galler-Str 4",
+      "location": {
+        "lng": 11.5310798,
+        "lat": 48.1600108
+      },
+      "id": 2350575,
+      "county": "Bayern",
+      "city_id": 80637,
+      "city": "Muenchen",
+      "address": "80637 Muenchen"
+    },
+    {
+      "name": " Marienplatz 1/U-Bahn-Kiosk",
+      "location": {
+        "lng": 11.5754485,
+        "lat": 48.1373932
+      },
+      "id": 2350022,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Thierschstrasse 44",
+      "location": {
+        "lng": 11.5879294,
+        "lat": 48.1368901
+      },
+      "id": 2350006,
+      "county": "Bayern",
+      "city_id": 80538,
+      "city": "Muenchen",
+      "address": "80538 Muenchen"
+    },
+    {
+      "name": " Zenettistrasse 49",
+      "location": {
+        "lng": 11.55276,
+        "lat": 48.12612
+      },
+      "id": 2350697,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Jaegerstrasse 2",
+      "location": {
+        "lng": 11.5766078,
+        "lat": 48.1443738
+      },
+      "id": 2353079,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Orleansplatz 10/Ostbahnhof UG",
+      "location": {
+        "lng": 11.6041357,
+        "lat": 48.1277878
+      },
+      "id": 2350308,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Ganghoferstr 74",
+      "location": {
+        "lng": 11.5385426,
+        "lat": 48.1284624
+      },
+      "id": 2350604,
+      "county": "Bayern",
+      "city_id": 81373,
+      "city": "Muenchen",
+      "address": "81373 Muenchen"
+    },
+    {
+      "name": " Kuglerstrasse 2",
+      "location": {
+        "lng": 11.6055582,
+        "lat": 48.1358063
+      },
+      "id": 2350198,
+      "county": "Bayern",
+      "city_id": 81675,
+      "city": "Muenchen",
+      "address": "81675 Muenchen"
+    },
+    {
+      "name": " Pfeuferstrasse 14",
+      "location": {
+        "lng": 11.54024,
+        "lat": 48.12548
+      },
+      "id": 2350720,
+      "county": "Bayern",
+      "city_id": 81373,
+      "city": "Muenchen",
+      "address": "81373 Muenchen"
+    },
+    {
+      "name": " Elsaesser Strasse 26",
+      "location": {
+        "lng": 11.604764,
+        "lat": 48.1300938
+      },
+      "id": 2350219,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Maillingerstrasse 2",
+      "location": {
+        "lng": 11.5461121,
+        "lat": 48.1494288
+      },
+      "id": 2350558,
+      "county": "Bayern",
+      "city_id": 80636,
+      "city": "Muenchen",
+      "address": "80636 Muenchen"
+    },
+    {
+      "name": " Kufsteiner Platz 2",
+      "location": {
+        "lng": 11.6024959,
+        "lat": 48.1499906
+      },
+      "id": 2350098,
+      "county": "Bayern",
+      "city_id": 81679,
+      "city": "Muenchen",
+      "address": "81679 Muenchen"
+    },
+    {
+      "name": " Bahnhofplatz 2/1. UG i. Hbh",
+      "location": {
+        "lng": 11.5577663,
+        "lat": 48.1404584
+      },
+      "id": 2354696,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Westenriederstrasse 37",
+      "location": {
+        "lng": 11.5796763,
+        "lat": 48.1351722
+      },
+      "id": 2350429,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Sendlinger-Tor-Platz 12/Kiosk",
+      "location": {
+        "lng": 11.567406,
+        "lat": 48.134221
+      },
+      "id": 2350322,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Giselastrasse /U-Bahn-Kiosk",
+      "location": {
+        "lng": 11.5855927,
+        "lat": 48.1552093
+      },
+      "id": 2350534,
+      "county": "Bayern",
+      "city_id": 80802,
+      "city": "Muenchen",
+      "address": "80802 Muenchen"
+    },
+    {
+      "name": " Muellerstrasse 53",
+      "location": {
+        "lng": 11.5671387,
+        "lat": 48.1320821
+      },
+      "id": 2350443,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Kirchenstrasse 1/Kiosk",
+      "location": {
+        "lng": 11.5981965,
+        "lat": 48.1349493
+      },
+      "id": 2350252,
+      "county": "Bayern",
+      "city_id": 81675,
+      "city": "Muenchen",
+      "address": "81675 Muenchen"
+    },
+    {
+      "name": " Hilblestrasse 26",
+      "location": {
+        "lng": 11.5458836,
+        "lat": 48.1567073
+      },
+      "id": 2350554,
+      "county": "Bayern",
+      "city_id": 80636,
+      "city": "Muenchen",
+      "address": "80636 Muenchen"
+    },
+    {
+      "name": " Holzapfelstrasse 1",
+      "location": {
+        "lng": 11.54598,
+        "lat": 48.13903
+      },
+      "id": 2350598,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Bauerstr 16",
+      "location": {
+        "lng": 11.5724037,
+        "lat": 48.1594901
+      },
+      "id": 2350540,
+      "county": "Bayern",
+      "city_id": 80796,
+      "city": "Muenchen",
+      "address": "80796 Muenchen"
+    },
+    {
+      "name": " Arcostrasse 2",
+      "location": {
+        "lng": 11.5675306,
+        "lat": 48.1421292
+      },
+      "id": 2350464,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Kanalstrasse 15",
+      "location": {
+        "lng": 11.5843057,
+        "lat": 48.1355955
+      },
+      "id": 2350336,
+      "county": "Bayern",
+      "city_id": 80538,
+      "city": "Muenchen",
+      "address": "80538 Muenchen"
+    },
+    {
+      "name": " Auerfeldstrasse 21/OMV-Tankstelle",
+      "location": {
+        "lng": 11.59526,
+        "lat": 48.1237
+      },
+      "id": 2350048,
+      "county": "Bayern",
+      "city_id": 81541,
+      "city": "Muenchen",
+      "address": "81541 Muenchen"
+    },
+    {
+      "name": " Franziska-Bilek-Weg 3",
+      "location": {
+        "lng": 11.5445765,
+        "lat": 48.1335079
+      },
+      "id": 2350599,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Hohenzollernstrasse 154",
+      "location": {
+        "lng": 11.56298,
+        "lat": 48.1611525
+      },
+      "id": 2354594,
+      "county": "Bayern",
+      "city_id": 80797,
+      "city": "Muenchen",
+      "address": "80797 Muenchen"
+    },
+    {
+      "name": " Ohmstrasse 12",
+      "location": {
+        "lng": 11.58493,
+        "lat": 48.15381
+      },
+      "id": 2350530,
+      "county": "Bayern",
+      "city_id": 80802,
+      "city": "Muenchen",
+      "address": "80802 Muenchen"
+    },
+    {
+      "name": " Kardinal-Faulhaber-Strasse 11/Prannerpassage",
+      "location": {
+        "lng": 11.574871,
+        "lat": 48.1405981
+      },
+      "id": 2354400,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Barer Str. 45",
+      "location": {
+        "lng": 11.5733847,
+        "lat": 48.1514898
+      },
+      "id": 2350506,
+      "county": "Bayern",
+      "city_id": 80799,
+      "city": "Muenchen",
+      "address": "80799 Muenchen"
+    },
+    {
+      "name": " Landsberger Strasse 69",
+      "location": {
+        "lng": 11.5384123,
+        "lat": 48.1396341
+      },
+      "id": 2350621,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Bahnhofplatz 7/UG Karstadt",
+      "location": {
+        "lng": 11.5617962,
+        "lat": 48.1404916
+      },
+      "id": 2350455,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Baaderstrasse 22",
+      "location": {
+        "lng": 11.5797928,
+        "lat": 48.1321009
+      },
+      "id": 2350007,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Seeriederstr 17",
+      "location": {
+        "lng": 11.6026867,
+        "lat": 48.1341896
+      },
+      "id": 2350277,
+      "county": "Bayern",
+      "city_id": 81675,
+      "city": "Muenchen",
+      "address": "81675 Muenchen"
+    },
+    {
+      "name": " Sendlinger-Tor-Platz 7",
+      "location": {
+        "lng": 11.5651531,
+        "lat": 48.1337689
+      },
+      "id": 2350441,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Kapuzinerstrasse 45",
+      "location": {
+        "lng": 11.5664558,
+        "lat": 48.1237343
+      },
+      "id": 2350185,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Amalienstrasse 37",
+      "location": {
+        "lng": 11.5770114,
+        "lat": 48.1484835
+      },
+      "id": 2350496,
+      "county": "Bayern",
+      "city_id": 80799,
+      "city": "Muenchen",
+      "address": "80799 Muenchen"
+    },
+    {
+      "name": " Waltherstrasse 33",
+      "location": {
+        "lng": 11.5587338,
+        "lat": 48.1289694
+      },
+      "id": 2350688,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Kazmairstrasse 43",
+      "location": {
+        "lng": 11.5408354,
+        "lat": 48.1346629
+      },
+      "id": 2355264,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Poetschnerstrasse 5/Im Kaufhof",
+      "location": {
+        "lng": 11.532093,
+        "lat": 48.152276
+      },
+      "id": 2350582,
+      "county": "Bayern",
+      "city_id": 80634,
+      "city": "Muenchen",
+      "address": "80634 Muenchen"
+    },
+    {
+      "name": " Arnulfstrasse 20",
+      "location": {
+        "lng": 11.5577639,
+        "lat": 48.1420117
+      },
+      "id": 2355328,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Herkomerplatz 2",
+      "location": {
+        "lng": 11.6082336,
+        "lat": 48.1505769
+      },
+      "id": 2350349,
+      "county": "Bayern",
+      "city_id": 81679,
+      "city": "Muenchen",
+      "address": "81679 Muenchen"
+    },
+    {
+      "name": " Trappentreustr 45",
+      "location": {
+        "lng": 11.53404,
+        "lat": 48.134
+      },
+      "id": 2350601,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Hirschbergstr 34",
+      "location": {
+        "lng": 11.5306496,
+        "lat": 48.1484399
+      },
+      "id": 2350584,
+      "county": "Bayern",
+      "city_id": 80634,
+      "city": "Muenchen",
+      "address": "80634 Muenchen"
+    },
+    {
+      "name": " Marienplatz 1",
+      "location": {
+        "lng": 11.5749502,
+        "lat": 48.1374121
+      },
+      "id": 2350009,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Augustenstrasse 39",
+      "location": {
+        "lng": 11.5622657,
+        "lat": 48.1482794
+      },
+      "id": 2350460,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Nordendstrasse 13",
+      "location": {
+        "lng": 11.5754881,
+        "lat": 48.1537965
+      },
+      "id": 2350475,
+      "county": "Bayern",
+      "city_id": 80799,
+      "city": "Muenchen",
+      "address": "80799 Muenchen"
+    },
+    {
+      "name": " Schleissheimer Strasse 45",
+      "location": {
+        "lng": 11.560777,
+        "lat": 48.1541632
+      },
+      "id": 2350468,
+      "county": "Bayern",
+      "city_id": 80797,
+      "city": "Muenchen",
+      "address": "80797 Muenchen"
+    },
+    {
+      "name": " Tal 1",
+      "location": {
+        "lng": 11.5779818,
+        "lat": 48.1368445
+      },
+      "id": 2350341,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Arnulfstrasse 3",
+      "location": {
+        "lng": 11.55797,
+        "lat": 48.14116
+      },
+      "id": 2350474,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Kurfuerstenplatz 8",
+      "location": {
+        "lng": 11.5755211,
+        "lat": 48.1601363
+      },
+      "id": 2350511,
+      "county": "Bayern",
+      "city_id": 80796,
+      "city": "Muenchen",
+      "address": "80796 Muenchen"
+    },
+    {
+      "name": " Leopoldstrasse 82/Karstadt",
+      "location": {
+        "lng": 11.5870209,
+        "lat": 48.1610349
+      },
+      "id": 2350335,
+      "county": "Bayern",
+      "city_id": 80802,
+      "city": "Muenchen",
+      "address": "80802 Muenchen"
+    },
+    {
+      "name": " Pariser Str 32",
+      "location": {
+        "lng": 11.5993827,
+        "lat": 48.1276817
+      },
+      "id": 2350227,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Karlsplatz 9/EKZ Stachuspassagen",
+      "location": {
+        "lng": 11.565716,
+        "lat": 48.1393327
+      },
+      "id": 2350444,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Landwehrstrasse 87",
+      "location": {
+        "lng": 11.5534762,
+        "lat": 48.1362643
+      },
+      "id": 2354402,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Theresienstr 126",
+      "location": {
+        "lng": 11.5641095,
+        "lat": 48.151345
+      },
+      "id": 2350463,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Loristrasse 14",
+      "location": {
+        "lng": 11.5518749,
+        "lat": 48.151025
+      },
+      "id": 2350476,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Franziskanerstrasse 14",
+      "location": {
+        "lng": 11.5918731,
+        "lat": 48.1268157
+      },
+      "id": 2350123,
+      "county": "Bayern",
+      "city_id": 81669,
+      "city": "Muenchen",
+      "address": "81669 Muenchen"
+    },
+    {
+      "name": " Kellerstr 15",
+      "location": {
+        "lng": 11.5936716,
+        "lat": 48.1312833
+      },
+      "id": 2350256,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Waisenhausstr 1",
+      "location": {
+        "lng": 11.5314,
+        "lat": 48.15651
+      },
+      "id": 2350576,
+      "county": "Bayern",
+      "city_id": 80637,
+      "city": "Muenchen",
+      "address": "80637 Muenchen"
+    },
+    {
+      "name": " Woerthstrasse 45",
+      "location": {
+        "lng": 11.6023883,
+        "lat": 48.1293431
+      },
+      "id": 2350251,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Rosenheimer Strasse 30/im Motorama",
+      "location": {
+        "lng": 11.5913676,
+        "lat": 48.1300953
+      },
+      "id": 2350016,
+      "county": "Bayern",
+      "city_id": 81669,
+      "city": "Muenchen",
+      "address": "81669 Muenchen"
+    },
+    {
+      "name": " Schillerstr 51",
+      "location": {
+        "lng": 11.5609482,
+        "lat": 48.1343604
+      },
+      "id": 2350703,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Lindwurmstrasse 30",
+      "location": {
+        "lng": 11.5562376,
+        "lat": 48.1287642
+      },
+      "id": 2350696,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Schwanthalerstrasse 10",
+      "location": {
+        "lng": 11.5632472,
+        "lat": 48.137527
+      },
+      "id": 2350704,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Schleissheimer Str 110",
+      "location": {
+        "lng": 11.5625768,
+        "lat": 48.1574948
+      },
+      "id": 2350472,
+      "county": "Bayern",
+      "city_id": 80797,
+      "city": "Muenchen",
+      "address": "80797 Muenchen"
+    },
+    {
+      "name": " Winthirstr 9 a",
+      "location": {
+        "lng": 11.5307239,
+        "lat": 48.154065
+      },
+      "id": 2350578,
+      "county": "Bayern",
+      "city_id": 80639,
+      "city": "Muenchen",
+      "address": "80639 Muenchen"
+    },
+    {
+      "name": " Lindwurmstrasse 21",
+      "location": {
+        "lng": 11.5633579,
+        "lat": 48.1316229
+      },
+      "id": 2350701,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Klenzestrasse 69",
+      "location": {
+        "lng": 11.5711578,
+        "lat": 48.1284881
+      },
+      "id": 2350008,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Leonrodplatz 2",
+      "location": {
+        "lng": 11.5475177,
+        "lat": 48.1585515
+      },
+      "id": 2350565,
+      "county": "Bayern",
+      "city_id": 80636,
+      "city": "Muenchen",
+      "address": "80636 Muenchen"
+    },
+    {
+      "name": " Hohenzollernstr 21",
+      "location": {
+        "lng": 11.5813962,
+        "lat": 48.1597325
+      },
+      "id": 2350510,
+      "county": "Bayern",
+      "city_id": 80801,
+      "city": "Muenchen",
+      "address": "80801 Muenchen"
+    },
+    {
+      "name": " Astallerstr 16",
+      "location": {
+        "lng": 11.5308424,
+        "lat": 48.1383486
+      },
+      "id": 2350611,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Arnulfstrasse 115",
+      "location": {
+        "lng": 11.5287994,
+        "lat": 48.147216
+      },
+      "id": 2350585,
+      "county": "Bayern",
+      "city_id": 80634,
+      "city": "Muenchen",
+      "address": "80634 Muenchen"
+    },
+    {
+      "name": " Corneliusstrasse 38",
+      "location": {
+        "lng": 11.5780996,
+        "lat": 48.1300197
+      },
+      "id": 2350140,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Ruppertstr 34",
+      "location": {
+        "lng": 11.5502412,
+        "lat": 48.1249819
+      },
+      "id": 2350689,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Bahnhofplatz 2/Laden 10",
+      "location": {
+        "lng": 11.5614044,
+        "lat": 48.1397684
+      },
+      "id": 2350543,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Dachauer Strasse 87",
+      "location": {
+        "lng": 11.557562,
+        "lat": 48.1511035
+      },
+      "id": 2350469,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Thalkirchner Strasse 51",
+      "location": {
+        "lng": 11.5591268,
+        "lat": 48.1223884
+      },
+      "id": 2350707,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Hochbrueckenstrasse 4",
+      "location": {
+        "lng": 11.579813,
+        "lat": 48.136407
+      },
+      "id": 2350326,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Lazarettstrasse 2",
+      "location": {
+        "lng": 11.54553,
+        "lat": 48.15036
+      },
+      "id": 2350559,
+      "county": "Bayern",
+      "city_id": 80636,
+      "city": "Muenchen",
+      "address": "80636 Muenchen"
+    },
+    {
+      "name": " Weissenburger Platz 1",
+      "location": {
+        "lng": 11.5964121,
+        "lat": 48.1281325
+      },
+      "id": 2350234,
+      "county": "Bayern",
+      "city_id": 81667,
+      "city": "Muenchen",
+      "address": "81667 Muenchen"
+    },
+    {
+      "name": " Jahnstrasse 50",
+      "location": {
+        "lng": 11.5687731,
+        "lat": 48.1268088
+      },
+      "id": 2350187,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Gollierstrasse 32",
+      "location": {
+        "lng": 11.5413103,
+        "lat": 48.1358491
+      },
+      "id": 2350650,
+      "county": "Bayern",
+      "city_id": 80339,
+      "city": "Muenchen",
+      "address": "80339 Muenchen"
+    },
+    {
+      "name": " Prielmayerstr 1/1. UG",
+      "location": {
+        "lng": 11.5615687,
+        "lat": 48.1410727
+      },
+      "id": 2350553,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Agnesstrasse 8",
+      "location": {
+        "lng": 11.5716708,
+        "lat": 48.1574121
+      },
+      "id": 2350462,
+      "county": "Bayern",
+      "city_id": 80801,
+      "city": "Muenchen",
+      "address": "80801 Muenchen"
+    },
+    {
+      "name": " Haeberlstrasse 21",
+      "location": {
+        "lng": 11.5586308,
+        "lat": 48.1270917
+      },
+      "id": 2350690,
+      "county": "Bayern",
+      "city_id": 80337,
+      "city": "Muenchen",
+      "address": "80337 Muenchen"
+    },
+    {
+      "name": " Max-Planck-Strasse 12",
+      "location": {
+        "lng": 11.5976728,
+        "lat": 48.1358972
+      },
+      "id": 2350100,
+      "county": "Bayern",
+      "city_id": 81675,
+      "city": "Muenchen",
+      "address": "81675 Muenchen"
+    },
+    {
+      "name": " Zweibrueckenstr 10",
+      "location": {
+        "lng": 11.5830622,
+        "lat": 48.1331354
+      },
+      "id": 2350343,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Rosenheimer Platz S-Bahnhof UG",
+      "location": {
+        "lng": 11.593049,
+        "lat": 48.129168
+      },
+      "id": 2354520,
+      "county": "Bayern",
+      "city_id": 81669,
+      "city": "Muenchen",
+      "address": "81669 Muenchen"
+    },
+    {
+      "name": " Josephspitalstrasse 12/Agip-Tankstelle",
+      "location": {
+        "lng": 11.5662544,
+        "lat": 48.1367124
+      },
+      "id": 2350328,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Neuhauser Strasse 2",
+      "location": {
+        "lng": 11.57135,
+        "lat": 48.13845
+      },
+      "id": 2350013,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Elisabethstrasse 27",
+      "location": {
+        "lng": 11.5685016,
+        "lat": 48.1588375
+      },
+      "id": 2350831,
+      "county": "Bayern",
+      "city_id": 80796,
+      "city": "Muenchen",
+      "address": "80796 Muenchen"
+    },
+    {
+      "name": " Schleissheimer Strasse 93/Karstadt",
+      "location": {
+        "lng": 11.5619678,
+        "lat": 48.1596851
+      },
+      "id": 2350781,
+      "county": "Bayern",
+      "city_id": 80797,
+      "city": "Muenchen",
+      "address": "80797 Muenchen"
+    },
+    {
+      "name": " Zeppelinstrasse 3",
+      "location": {
+        "lng": 11.5806,
+        "lat": 48.12519
+      },
+      "id": 2350108,
+      "county": "Bayern",
+      "city_id": 81541,
+      "city": "Muenchen",
+      "address": "81541 Muenchen"
+    },
+    {
+      "name": " Lilienstrasse 78",
+      "location": {
+        "lng": 11.5835506,
+        "lat": 48.1266633
+      },
+      "id": 2350104,
+      "county": "Bayern",
+      "city_id": 81669,
+      "city": "Muenchen",
+      "address": "81669 Muenchen"
+    },
+    {
+      "name": " Neuhauser Strasse 47",
+      "location": {
+        "lng": 11.5667571,
+        "lat": 48.138697
+      },
+      "id": 2350319,
+      "county": "Bayern",
+      "city_id": 80331,
+      "city": "Muenchen",
+      "address": "80331 Muenchen"
+    },
+    {
+      "name": " Augustenstrasse 119",
+      "location": {
+        "lng": 11.566288,
+        "lat": 48.1545733
+      },
+      "id": 2350466,
+      "county": "Bayern",
+      "city_id": 80798,
+      "city": "Muenchen",
+      "address": "80798 Muenchen"
+    },
+    {
+      "name": " Donnersbergerstrasse 46",
+      "location": {
+        "lng": 11.5349431,
+        "lat": 48.1472997
+      },
+      "id": 2350583,
+      "county": "Bayern",
+      "city_id": 80634,
+      "city": "Muenchen",
+      "address": "80634 Muenchen"
+    },
+    {
+      "name": " Karlstrasse 52",
+      "location": {
+        "lng": 11.5600351,
+        "lat": 48.1451639
+      },
+      "id": 2350456,
+      "county": "Bayern",
+      "city_id": 80333,
+      "city": "Muenchen",
+      "address": "80333 Muenchen"
+    },
+    {
+      "name": " Leonrodstrasse 45",
+      "location": {
+        "lng": 11.5397228,
+        "lat": 48.1556443
+      },
+      "id": 2350592,
+      "county": "Bayern",
+      "city_id": 80636,
+      "city": "Muenchen",
+      "address": "80636 Muenchen"
+    },
+    {
+      "name": " Tuerkenstrasse 59",
+      "location": {
+        "lng": 11.5761973,
+        "lat": 48.1510094
+      },
+      "id": 2350527,
+      "county": "Bayern",
+      "city_id": 80799,
+      "city": "Muenchen",
+      "address": "80799 Muenchen"
+    },
+    {
+      "name": " Frundsbergstrasse 5",
+      "location": {
+        "lng": 11.5360266,
+        "lat": 48.1540349
+      },
+      "id": 2350577,
+      "county": "Bayern",
+      "city_id": 80634,
+      "city": "Muenchen",
+      "address": "80634 Muenchen"
+    },
+    {
+      "name": " Wagmuellerstrasse 15",
+      "location": {
+        "lng": 11.5885628,
+        "lat": 48.1415151
+      },
+      "id": 2350020,
+      "county": "Bayern",
+      "city_id": 80538,
+      "city": "Muenchen",
+      "address": "80538 Muenchen"
+    },
+    {
+      "name": " Seitzstrasse 15",
+      "location": {
+        "lng": 11.58464,
+        "lat": 48.14143
+      },
+      "id": 2350342,
+      "county": "Bayern",
+      "city_id": 80538,
+      "city": "Muenchen",
+      "address": "80538 Muenchen"
+    },
+    {
+      "name": " Fraunhoferstrasse 22",
+      "location": {
+        "lng": 11.5740435,
+        "lat": 48.1293097
+      },
+      "id": 2350021,
+      "county": "Bayern",
+      "city_id": 80469,
+      "city": "Muenchen",
+      "address": "80469 Muenchen"
+    },
+    {
+      "name": " Karlsplatz 21-24/Kaufhof",
+      "location": {
+        "lng": 11.5644633,
+        "lat": 48.1387788
+      },
+      "id": 2350700,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Hermann-Lingg-Strasse 7",
+      "location": {
+        "lng": 11.55194,
+        "lat": 48.13827
+      },
+      "id": 2353691,
+      "county": "Bayern",
+      "city_id": 80336,
+      "city": "Muenchen",
+      "address": "80336 Muenchen"
+    },
+    {
+      "name": " Dachauer Strasse 28",
+      "location": {
+        "lng": 11.5600505,
+        "lat": 48.1440391
+      },
+      "id": 2350457,
+      "county": "Bayern",
+      "city_id": 80335,
+      "city": "Muenchen",
+      "address": "80335 Muenchen"
+    },
+    {
+      "name": " Ismaninger Strasse 98",
+      "location": {
+        "lng": 11.6031775,
+        "lat": 48.1458185
+      },
+      "id": 2350101,
+      "county": "Bayern",
+      "city_id": 81675,
+      "city": "Muenchen",
+      "address": "81675 Muenchen"
+    }
+  ]
+}
